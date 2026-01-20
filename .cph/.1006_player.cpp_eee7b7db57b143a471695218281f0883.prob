@@ -1,0 +1,1 @@
+{"name":"Local: 1006_player","url":"/Users/lijunyi/Code/CPP_practice/1006_player.cpp","tests":[{"id":1768301379992,"input":"5\nAlice 120 0\nBob 150 1\nChris 90 0\nDavid 200 0\nEve 180 0","output":"David\nEve\nAlice"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/lijunyi/Code/CPP_practice/1006_player.cpp","group":"local","local":true}

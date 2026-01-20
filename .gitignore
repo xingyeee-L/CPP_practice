@@ -1,0 +1,7 @@
+*.exe
+*.o
+*.out
+.vscode/
+*.dSYM
+in.txt
+*.bin

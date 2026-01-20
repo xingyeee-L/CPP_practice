@@ -1,0 +1,1 @@
+{"name":"Local: 1004_findmax","url":"/Users/lijunyi/Code/CPP_practice/1004_findmax.cpp","tests":[{"id":1768296763648,"input":"3\nAlice 95\nBob 82\nChris 100","output":"Highest: Chris\nLowest: Bob"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/lijunyi/Code/CPP_practice/1004_findmax.cpp","group":"local","local":true}
